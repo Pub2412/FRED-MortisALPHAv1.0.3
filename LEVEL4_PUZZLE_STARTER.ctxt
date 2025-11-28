@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=LEVEL4_PUZZLE_STARTER
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LEVEL4_PUZZLE_STARTER\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=puzzleRoom\ puzzleName
+comment1.target=LEVEL4_PUZZLE_STARTER(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ interact()
+numComments=3

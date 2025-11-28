@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Sign
+comment1.params=message
+comment1.target=Sign(java.lang.String)
+comment2.params=message
+comment2.target=void\ setMessage(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getMessage()
+comment4.params=
+comment4.target=void\ interact()
+numComments=5

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=LEVEL4_BOSS
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LEVEL4_BOSS\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=LEVEL4_BOSS()
+comment10.params=
+comment10.target=void\ clearClones()
+comment11.params=dir
+comment11.target=java.lang.String\ getDirectionAsString(int)
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ handlePhase1()
+comment5.params=
+comment5.target=void\ handlePhase2()
+comment6.params=
+comment6.target=void\ handlePhase3()
+comment7.params=
+comment7.target=void\ teleportDemonBehindPlayer()
+comment8.params=dir
+comment8.target=java.lang.String\ getOppositeDirection(java.lang.String)
+comment9.params=
+comment9.target=void\ createClones()
+numComments=12

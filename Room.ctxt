@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Room
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Room\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Room()
+comment2.params=filename
+comment2.target=void\ setSongFile(java.lang.String)
+comment3.params=up\ down\ left\ right
+comment3.target=void\ setConnections(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=conn
+comment4.target=void\ setConnectionUp(java.lang.String)
+comment5.params=conn
+comment5.target=void\ setConnectionDown(java.lang.String)
+comment6.params=conn
+comment6.target=void\ setConnectionLeft(java.lang.String)
+comment7.params=conn
+comment7.target=void\ setConnectionRight(java.lang.String)
+comment8.params=
+comment8.target=void\ act()
+comment9.params=
+comment9.target=void\ prepare()
+comment9.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=10

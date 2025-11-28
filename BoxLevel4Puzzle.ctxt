@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=BoxLevel4Puzzle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BoxLevel4Puzzle\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=BoxLevel4Puzzle()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ handleInput()
+comment4.params=
+comment4.target=void\ tryMove()
+comment5.params=
+comment5.target=boolean\ willCollide()
+comment6.params=newX\ newY
+comment6.target=boolean\ canMoveTo(int,\ int)
+comment7.params=
+comment7.target=void\ kill()
+numComments=8

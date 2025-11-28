@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Frames
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Frames\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=unused\ imageName
+comment1.target=Frames(java.lang.String,\ java.lang.String)
+comment2.params=newImageName
+comment2.target=void\ changeImage(java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Portraits
+comment0.text=\r\n\ Portraits\ actor\ that\ can\ display\ a\ large\ popup\ image\ and\ message\ on\ interaction.\r\n
+comment1.params=unused\ imageName\ popupImageName\ message
+comment1.target=Portraits(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=newImageName
+comment2.target=void\ changeImage(java.lang.String)
+comment3.params=
+comment3.target=void\ interact()
+comment4.params=
+comment4.target=void\ act()
+numComments=5

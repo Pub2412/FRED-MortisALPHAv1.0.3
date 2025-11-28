@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=FRED
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FRED\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=roomsCanTeleport
+comment1.target=FRED(java.lang.String[])
+comment10.params=
+comment10.target=void\ stopAllSounds()
+comment11.params=
+comment11.target=void\ removeSelfAndRestartCooldown()
+comment11.text=Removes\ demon,\ stops\ music,\ restarts\ cooldown\ on\ reappear
+comment2.params=
+comment2.target=void\ act()
+comment3.params=player
+comment3.target=void\ chasePlayer(Player)
+comment4.params=
+comment4.target=Player\ getPlayerInWorld()
+comment5.params=player
+comment5.target=void\ teleportToPlayer(Player)
+comment6.params=
+comment6.target=void\ playRandomTaunt()
+comment7.params=
+comment7.target=void\ startProximityMusic()
+comment8.params=
+comment8.target=void\ stopProximityMusic()
+comment9.params=
+comment9.target=void\ stopCurrentTaunt()
+numComments=12
